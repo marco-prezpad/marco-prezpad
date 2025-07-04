@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marco-prezpad&show_icons=true&hide_title=true&count_private=true&theme=blue_navy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-prezpad&layout=compact&theme=github_dark)
 
 <!--
 **marco-prezpad/marco-prezpad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
